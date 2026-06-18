@@ -1,10 +1,6 @@
 hii guys tommorow i have a exam
- HEAD
 
 i am studying in second year
 
 i want to get a output in tommorow lab
 rayaru
-
-i am studying in second year
-42c67f7 (second commit)
